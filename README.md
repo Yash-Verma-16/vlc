@@ -138,4 +138,3 @@ share/             - Common resource files.
 src/               - libvlccore source code.
 test/              - Testing system.
 ```
-Test By Yash
